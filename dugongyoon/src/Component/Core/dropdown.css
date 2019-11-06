@@ -1,0 +1,26 @@
+.btn:hover{
+    
+    color:#DA9C00;
+}
+.btn-yel{
+    color:#DA9C00;
+}
+.dropdown-toggle{
+    background-color: #FFEE94;
+    border-color: #FFEE94;
+    width : 295px;
+    color:#DA9C00;
+    border-radius:30px;
+}
+.dropdown-item{
+    color:#DA9C00;
+}
+.dropdown-item:active{
+    background-color:#FFD600;
+    color:#FFFFFF;
+}
+.dropdown-item:hover{
+        background-color:#FFD600;
+        color:#FFFFFF;
+    
+}
