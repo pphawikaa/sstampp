@@ -1,0 +1,2 @@
+# sstampp
+hello GitHub
